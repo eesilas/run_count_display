@@ -1,5 +1,6 @@
 {
     "name": "run_count_display",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
